@@ -225,7 +225,7 @@ def help_command(update: Update, context: CallbackContext) -> None:
 def main() -> None:
     """Run the bot."""
     # Create the Updater and pass it your bot's token.
-    API_Token = "5597241763:AAHGMKfDI02Rd3O7UB1eTNswsYukJFeNtvc"
+    API_Token = "API TOKEN HERE"
     updater = Updater(API_Token)
 
     # Get the dispatcher to register handlers
